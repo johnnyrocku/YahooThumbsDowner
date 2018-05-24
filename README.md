@@ -13,7 +13,7 @@ Some things to be aware of:
   There is no good way to stop running a script once it is started. They can be paused by pressing the play/pause button, but not stopped entirely. The only known way to stop the script entirely is to close the browser window.
 
 To install:
-1. Open a Chrome window. Then open Developer Tools (press F10)
+1. Open a Chrome window. Then open Developer Tools (press F12)
 2. Click on "Sources" at the top of Developer Tools
 3. Click on "+ New snippet"
 4. Copy this entire source code and paste it into the source window
